@@ -1,2 +1,2 @@
-# Bank-ATM-simulation-system-using-java
-Designed and developed a secure ATM simulation system using Java and MySQL. Enabled users to perform  transactions like deposit, withdrawal, and balance inquiry, while admins could manage accounts. Implemented AES  encryption and authentication for enhanced security
+Airline-Reservation-system
+Cloud-based booking platform for domestic and international flight reservations. – Developed a cloud-enabled web system using Java (JSP/Servlets), MySQL, Eclipse. Integrated real-time flight search, secure transactions, and separate admin/passenger modules. Combined user-friendly UI with backend management of inventory and bookings.
